@@ -1,0 +1,32 @@
+.weather{
+  background-color: aquamarine;
+  height: 40vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:rgb(241, 106, 106);
+  font-weight: 700;
+}
+.box{
+  margin: auto;
+  width: 500px;
+  height: 320px;
+}
+.Icon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.City{
+  font-size: 35px;
+}
+.Temp{
+  font-size:55px;
+  font-weight: 700;
+}
+.humidity{
+  font-size: 20px;
+}
